@@ -1,0 +1,53 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about-us-container{
+    display: flex;
+    /* justify-content: space-between; */
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    height: 65vh;
+ 
+
+}
+
+.about-team, .about-detail {
+    flex: 1;
+    padding: 0 10px; /* Adjust padding as needed */
+  }
+
+.team-member img {
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.about-all{
+    /* display: flex;
+    justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+}
+
+.team-member-name{
+    padding-top: 2rem;
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+}
+.team-member-desc{
+    font-size: medium;
+    text-align: center;
+}
+h2 {
+    font-weight: 600;
+    padding-bottom: 1rem;
+}
+.about-detail{
+    padding-top: 3rem;
+}
+p{
+    font-size: 1.1rem;
+}

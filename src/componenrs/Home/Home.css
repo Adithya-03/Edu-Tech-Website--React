@@ -1,0 +1,103 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6rem;
+    
+    
+
+}
+.home-title {
+    font-size: 3rem;
+    padding-right: 4rem;
+}
+.registration-btn{
+    background-color: #6f55f2;
+    color: white;
+   
+}
+.home-content{
+    margin-top: 3rem;
+}
+
+.home-content p{
+    font-size: 1.1rem;
+    line-height: 30px;
+    margin-top: 1.5rem;
+
+}
+
+.home-btn{
+    display: flex;
+    gap: 3rem;
+    margin-top: 3rem;
+    margin-left: 4rem
+}
+.registration-btn{
+   color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.home-img-warpper{
+    position: relative;
+    z-index: 1;
+}
+
+.box1{
+    width: 450px;
+    height: 450px;
+    /* border-radius: 100%; */
+    border: 25px solid #6f55f2; 
+    border-radius: 50%;
+}
+
+.box1 img{
+    width: 25rem;
+    height: 25rem;
+    border-radius: 54%;
+    margin-left: 0.05rem;
+}
+
+
+.whatapp-container{
+    width: 100px;
+    position: absolute;
+    top: 55%;
+    left: -12%;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 18px 8px;
+    box-shadow: -3px 3px 8px -1px #d3cef2;
+
+}
+
+.whatapp-container h5{
+    font-size: 1rem;
+    font-weight: 600;
+
+}
+
+.support{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 1%;
+    right: -2%;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 18px 8px;
+    box-shadow: -2px 3px 9px -1px #d3cef2;
+
+
+}
+.support h5{
+    font-size: 1rem;
+    font-weight: 700;
+
+}

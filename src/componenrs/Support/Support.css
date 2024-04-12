@@ -1,0 +1,28 @@
+/* Support.css */
+
+.container {
+    padding: 50px 0; /* Add padding to the top and bottom */
+    
+  }
+  
+  .support-container {
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    height: 45vh;
+  }
+  
+  .support-time {
+    text-align: center; /* Center text horizontally */
+  }
+  
+  .support-time h2 {
+    font-size: xx-large;
+    margin-bottom: 10px; /* Add margin below the heading */
+  }
+  
+  .support-time p {
+    font-size: 1.5rem;
+    color: #555; /* Set paragraph text color */
+  }
+  

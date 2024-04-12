@@ -1,0 +1,54 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.warpper{
+    display: flex;
+    margin-top: 3rem;
+    justify-content: space-between;
+    column-gap: 2rem;
+    margin-bottom: 1rem;
+    
+  
+    
+}
+
+.start-warpper .start-box{
+    width: 50%;
+
+}
+.start-box{
+    width: 60%;
+
+}
+.start-img img {
+    max-width: 600px; /* Adjust the maximum width as per your requirement */
+    height: auto;
+    border-radius: 1rem;
+  }
+
+
+.start-box{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    margin-top: 4rem;
+
+}
+.start-title{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.start-title p{
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    font-size: 1.1rem;
+}
+
+.registration-btn{
+    background-color: #6f55f2;
+    color: white;
+    margin-top: 2rem;
+   
+}

@@ -1,0 +1,45 @@
+
+.navbar-nav{
+    gap: 2rem;
+    font-size: larger;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+  
+
+#navbarNav {
+    display: flex;
+    justify-content: space-between;
+
+}
+nav{
+    height: 50px;
+}
+/* Header.css */
+.navbar {
+    margin-top: 1rem;
+    background-color: white;
+  }
+
+
+#teleflix{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+li:hover{
+    color: #6f55f2;
+
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    /* text-decoration: none;
+    color: black; */
+}
+.navbar-nav .nav-item .nav-link {
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Change color */
+  }
+
+  

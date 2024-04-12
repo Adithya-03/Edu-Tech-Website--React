@@ -1,0 +1,12 @@
+.form-width {
+    /* Adjust as needed */
+    width: 800px; /* Set a maximum width */
+    margin: 0 auto; /* Center the form horizontally */
+   
+  }
+
+.submit-btn {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}

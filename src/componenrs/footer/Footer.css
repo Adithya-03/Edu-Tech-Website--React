@@ -1,0 +1,108 @@
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    padding: 50px 0px;
+    width: 100%;
+    background-color: #eeeaff;
+
+}
+.footer-warpper{
+ 
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+ul{
+    list-style-type: none;
+    line-height: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer-box{
+    width: 30%;
+}
+
+.footer-box p {
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer_title {
+    padding-top: 20px;
+    margin-top: 0; /* Reset top margin */
+    /* font-size: large;
+    font-weight: 800;
+  }
+.footer-link {
+    padding-left: 0px;
+
+}
+.logo h3{
+    font-weight: 700;
+}  */
+
+
+/* Footer.css */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .footer {
+   
+    width: 100%;
+    background-color: #eeeaff;
+    
+  }
+  
+  .footer-warpper {
+    display: flex;
+    justify-content: space-between;
+   
+ 
+  }
+  
+  ul {
+    list-style-type: none;
+    line-height: 1.5rem;
+  }
+  
+  .footer-box {
+    width: 30%;
+  }
+  
+  .footer-box p {
+    margin-top: 10px;
+  }
+  
+  .footer_title {
+    padding-top: 20px;
+
+    font-size: large;
+    font-weight: 800;
+  }
+  
+  .footer-link {
+    padding-left: 0px;
+  }
+  
+  .logo h3 {
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+ 
+  }
+  .logo p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
+  }
+img{
+  height: 40px;
+  width: 40px;
+  
+}
+.logo{
+  display: flex;
+}
